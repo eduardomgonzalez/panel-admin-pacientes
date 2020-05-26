@@ -10,5 +10,5 @@ Realizado con React.js, Hooks, librería Skeleton css, los datos se persisten en
 Instalar dependencias:
 ### `npm install`
 
-Coorer el servidor:
+Correr el servidor:
 ### `npm start`
